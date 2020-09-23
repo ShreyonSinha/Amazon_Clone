@@ -1,0 +1,18 @@
+.checkoutProduct
+{
+    display: flex;
+    margin-bottom: 27px;
+}
+.checkoutProduct__info
+{
+    margin-left:22px;
+}
+.checkoutProduct__rating
+{
+    display: flex;
+}
+
+.checkoutProduct__img
+{
+    height: 253px;
+}
